@@ -1,36 +1,18 @@
 {
-  "tasks": [
+  "users": [
     {
       "id": "1",
-      "task": "Prepare quarterly report",
-      "username": "alice",
-      "date": "2026-03-10",
-      "status": 1,
-      "task_type": "Office"
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "1234567891",
+      "image": "https://via.placeholder.com/100"
     },
     {
-      "id": "2",
-      "task": "Buy groceries for the week",
-      "username": "bob",
-      "date": "2026-03-07",
-      "status": 1,
-      "task_type": "Personal"
-    },
-    {
-      "id": "3",
-      "task": "Plan weekend trip with family",
-      "username": "carol",
-      "date": "2026-03-15",
-      "status": 0,
-      "task_type": "Family"
-    },
-    {
-      "id": "4",
-      "task": "Coffee meetup with friends",
-      "username": "dave",
-      "date": "2026-03-08",
-      "status": 0,
-      "task_type": "Friends"
+      "id": "6c5f",
+      "name": "harsha chandel",
+      "email": "harshachandel2007@gmail.com",
+      "phone": "09537637489",
+      "image": "https://www.workthere.com/media/rgnhzyzd/_dsc8485.jpg"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
